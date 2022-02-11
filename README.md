@@ -1,6 +1,6 @@
 ### Hello, world! My name is Carlos Gabriel.
 
-- 🌱 I’m currently learning Javascript, Node and React.
+- 🌱 I’m currently learning Javascript.
 
 <div align="center">
   <a href="https://github.com/carlosgabriell">
