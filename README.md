@@ -1,4 +1,4 @@
-### Hello, world! My name is Carlos Gabriel.
+### Hi, guys! My name is Carlos Gabriel.
 
 - 🌱 I’m currently learning Javascript.
 
