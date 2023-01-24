@@ -38,7 +38,7 @@
   <div align="center">
 <br><p align="centre"><b>Contacts</b></p>  
 <a href="https://www.linkedin.com/in/carlos-gabriel-92a4a4220/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%237E4DD2.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/carlos-gabriel-92a4a4220/" target="_blank"><img src="https://img.shields.io/badge/gmail-%237E4DD2.svg?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="carlostchequepa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%237E4DD2.svg?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
   
   
