@@ -1,31 +1,45 @@
-### Hi, guys! My name is Carlos Gabriel.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-<div align="center">
-  <a href="https://github.com/carlosgabriell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosgabriell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgabriell&layout=compact&langs_count=7&theme=midnight-purple"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carlos+Gabriel;I'm+19+years+old;I+from+Brasil,+RJ;I+study+information+systems+at+UFRRJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carlosgabriell&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="carlosgabriell github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgabriell&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
+</div>
+
+![Snake animation](https://github.com/carlosgabriell/carlosgabriell/blob/output/github-contribution-grid-snake.svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carlosgabriell&bg_color=0d1117&color=7627c1&line=7627c1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carlosgabriell&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+### Main skills:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Codepen](https://img.shields.io/badge/-Codepen-0D1117?style=for-the-badge&logo=codepen&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Pascal](https://img.shields.io/badge/-Pascal-0D1117?style=for-the-badge&logo=free&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+  <div align="center">
+<br><p align="centre"><b>Contacts</b></p>  
+<a href="https://www.linkedin.com/in/carlos-gabriel-92a4a4220/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%237E4DD2.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/carlos-gabriel-92a4a4220/" target="_blank"><img src="https://img.shields.io/badge/gmail-%237E4DD2.svg?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Gabe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabe-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Gabe-pic" height="150" style="border-radius:50px;"
-  src="https://i.pinimg.com/originals/66/6c/72/666c72aa8a73f6b15a1fc39224f601f0.gif">
-  </div>
   
-  ##
-  
-  <div>
-     <a href="https://twitter.com/gabe_dev1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gabexzs1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carlostchequepa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-oliveira-92a4a4220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
- ![Snake animation](https://github.com/carlosgabriell/carlosgabriell/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
-  
-  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
