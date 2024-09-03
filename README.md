@@ -19,6 +19,7 @@
 
 ### Tools:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&labelColor=0D1117)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
@@ -28,8 +29,7 @@
   
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vue.Js](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   <div align="center">
