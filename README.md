@@ -1,18 +1,9 @@
-[README.md](https://github.com/user-attachments/files/33250021/README.md)<!--
-GITHUB PROFILE README — Carlos Gabriel
-Tema: preto + roxo | animações | GitHub Snake
-Antes de publicar:
-1. Confira os links de contato.
-2. Crie os arquivos da Snake conforme as instruções abaixo.
-3. Ajuste a lista de tecnologias para refletir seu nível atual.
--->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,45:2E1065,100:8B5CF6&height=160&section=header&text=CARLOS%20GABRIEL&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Tecnologia%20%7C%20Desenvolvimento%20%7C%20Criatividade&descAlignY=62&descSize=15" alt="Cabeçalho roxo e preto">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Carlos+Gabriel+%F0%9F%91%8B;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+na+UFRRJ;Desenvolvimento+%7C+Automa%C3%A7%C3%A3o+%7C+Design;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Bem-vindo+ao+meu+universo+%F0%9F%92%9C" alt="Texto animado apresentando Carlos Gabriel">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Carlos+Gabriel+%F0%9F%91%8B;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+na+UFRRJ;Desenvolvimento+%7C+Automa%C3%A7%C3%A3o+%7C+Design;Bem-vindo+ao+meu+universo+%F0%9F%92%9C" alt="Texto animado apresentando Carlos Gabriel">
 </a>
 
 <p>
