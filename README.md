@@ -74,7 +74,7 @@ const carlos = {
 ### `latest releases`
 
 <!-- RELEASES:START -->
-_Nenhum release público encontrado ainda. Quando você publicar um release, ele aparecerá aqui automaticamente._
+_Nenhum lançamento publicado encontrado por enquanto._
 <!-- RELEASES:END -->
 
 ### `contribution.exe`
