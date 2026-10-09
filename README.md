@@ -1,44 +1,104 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+[README.md](https://github.com/user-attachments/files/33250021/README.md)<!--
+GITHUB PROFILE README — Carlos Gabriel
+Tema: preto + roxo | animações | GitHub Snake
+Antes de publicar:
+1. Confira os links de contato.
+2. Crie os arquivos da Snake conforme as instruções abaixo.
+3. Ajuste a lista de tecnologias para refletir seu nível atual.
+-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Carlos+Gabriel;Tenho+21+anos;Estudo+Sistemas+de+Informação+na+UFRRJ;Seja+bem-vindo!)](https://git.io/typing-svg)
+<div align="center">
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carlosgabriell&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="carlosgabriell github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgabriell&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,45:2E1065,100:8B5CF6&height=160&section=header&text=CARLOS%20GABRIEL&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Tecnologia%20%7C%20Desenvolvimento%20%7C%20Criatividade&descAlignY=62&descSize=15" alt="Cabeçalho roxo e preto">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carlosgabriell&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Carlos+Gabriel+%F0%9F%91%8B;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+na+UFRRJ;Desenvolvimento+%7C+Automa%C3%A7%C3%A3o+%7C+Design;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Bem-vindo+ao+meu+universo+%F0%9F%92%9C" alt="Texto animado apresentando Carlos Gabriel">
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/carlos-gabriell">
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:carlostchequepa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=carlosgabriell&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL" alt="Contador de visitas">
 </p>
 
-### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PhP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### Tools:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&labelColor=0D1117)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-node-0D1117?style=for-the-badge&logo=nodejs&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-  <div align="center">
-<br><p align="centre"><b>Contacts</b></p>  
-<a href="https://www.linkedin.com/in/carlos-gabriel-92a4a4220/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%237E4DD2.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="carlostchequepa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%237E4DD2.svg?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+---
+
+## 👾 Sobre mim | About me
+
+🇧🇷 Sou estudante de **Sistemas de Informação na UFRRJ** e tenho interesse em tecnologia, desenvolvimento de software e criação de soluções digitais. Gosto de unir lógica, criatividade e resolução de problemas para transformar ideias em algo útil.
+
+Minha trajetória também passa por **automação de atendimento, marketing e design gráfico**, experiências que ampliaram minha visão sobre como a tecnologia pode melhorar processos e a experiência das pessoas. Atualmente, busco uma oportunidade de **estágio em TI** para aprender na prática, colaborar com uma equipe e continuar evoluindo.
+
+🇺🇸 I'm an **Information Systems student at UFRRJ, Brazil**, interested in software development and digital solutions. I enjoy combining logic, creativity, and problem-solving to build useful things.
+
+My background also includes **customer-service automation, marketing, and graphic design**, giving me a broader perspective on technology, processes, and user experience. I'm currently looking for a **technology internship** where I can contribute, learn from a team, and keep growing.
+
+- 💻 **Interesses | Interests:** desenvolvimento web, APIs, bancos de dados e automação.
+- 🎨 **Criatividade | Creativity:** design gráfico, comunicação visual e experiência do usuário.
+- 🌱 **Sempre aprendendo | Always learning:** novas tecnologias, boas práticas e desenvolvimento Full Stack.
+- 🎯 **Objetivo | Goal:** começar minha carreira em TI e contribuir com soluções reais.
+
+---
+
+## ⚡ Tecnologias e ferramentas | Tech stack
+
+<div align="center">
+
+### Desenvolvimento | Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,python&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP e Python">
+
+### Banco de dados, ferramentas e design | Data, tools & design
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,figma,ps,vscode&theme=dark" alt="MySQL, PostgreSQL, Docker, Git, GitHub, Figma, Photoshop e VS Code">
+
+</div>
+
+---
+
+## 📊 Meu GitHub em números | GitHub at a glance
+
+<div align="center">
+
+<a href="https://github.com/carlosgabriell">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=carlosgabriell&show_icons=true&hide_border=true&rank_icon=github&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&ring_color=8B5CF6&include_all_commits=true" alt="Estatísticas do GitHub">
+</a>
+<a href="https://github.com/carlosgabriell">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgabriell&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7&langs_count=8" alt="Linguagens mais usadas">
+</a>
+
+<br>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosgabriell&hide_border=true&background=09090B&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Sequência de contribuições">
+
+</div>
+
+---
+
+## 🐍 Minha atividade no GitHub | Contribution snake
+
+<div align="center">
+
+<!-- A imagem abaixo só aparecerá depois de configurar a GitHub Action descrita após este README. -->
+<img width="100%" src="https://raw.githubusercontent.com/carlosgabriell/carlosgabriell/output/github-contribution-grid-snake-dark.svg" alt="Animação da minhoca percorrendo o gráfico de contribuições do GitHub">
+
+</div>
+
+---
+
+## 🌌 Além do código | Beyond code
+
+<div align="center">
+
+**Código com propósito. Design com intenção. Aprendizado constante.**  
+*Code with purpose. Design with intention. Always learning.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:2E1065,100:09090B&height=110&section=footer" alt="Rodapé roxo e preto">
+
+</div>
