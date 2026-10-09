@@ -1,0 +1,118 @@
+
+name: Update latest GitHub releases
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-releases:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update releases section
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const owner = context.repo.owner;
+            const profileRepo = context.repo.repo;
+            const file = 'README.md';
+
+            let readme = fs.readFileSync(file, 'utf8');
+
+            const repos = await github.paginate(
+              github.rest.repos.listForUser,
+              {
+                username: owner,
+                per_page: 100,
+                type: 'owner'
+              }
+            );
+
+            const releases = [];
+
+            for (const repo of repos) {
+              if (repo.fork || repo.name === profileRepo) continue;
+
+              try {
+                const { data } = await github.rest.repos.listReleases({
+                  owner,
+                  repo: repo.name,
+                  per_page: 10
+                });
+
+                for (const release of data) {
+                  if (release.draft || release.prerelease) continue;
+
+                  releases.push({
+                    repo: repo.name,
+                    name: release.name || release.tag_name,
+                    tag: release.tag_name,
+                    url: release.html_url,
+                    date: release.published_at || ''
+                  });
+                }
+              } catch (error) {
+                core.info(`Skipping ${repo.name}: ${error.message}`);
+              }
+            }
+
+            releases.sort((a, b) => b.date.localeCompare(a.date));
+
+            const latest = releases.slice(0, 8);
+
+            const section = latest.length
+              ? latest.map(r => {
+                  const date = r.date
+                    ? ` · ${r.date.slice(0, 10)}`
+                    : '';
+
+                  return `- **[${r.repo}](${r.url})** — [${r.name}](${r.url}) \`${r.tag}\`${date}`;
+                }).join('\n')
+              : '_Nenhum release público encontrado ainda. Quando você publicar um release, ele aparecerá aqui automaticamente._';
+
+            const start = '<!-- RELEASES:START -->';
+            const end = '<!-- RELEASES:END -->';
+
+            const pattern = new RegExp(
+              `${start}[\\s\\S]*?${end}`
+            );
+
+            if (!pattern.test(readme)) {
+              core.setFailed(
+                'Os marcadores RELEASES não foram encontrados no README.md.'
+              );
+              return;
+            }
+
+            readme = readme.replace(
+              pattern,
+              `${start}\n${section}\n${end}`
+            );
+
+            fs.writeFileSync(file, readme);
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "chore: update latest GitHub releases"
+          git push
