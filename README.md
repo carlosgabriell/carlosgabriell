@@ -133,7 +133,37 @@ status: ready_to_build_
 
 <!-- RELEASES:START -->
 
-_Aguardando atualização automática dos projetos._
+- **[fintrack](https://github.com/carlosgabriell/fintrack)**
+  Personal finance management platform with real-time analytics, budgeting and financial goals.
+  <sub>Último push: 18/08/2026</sub>
+
+- **[bolao-copa-2026](https://github.com/carlosgabriell/bolao-copa-2026)** · `JavaScript`
+  Projeto em desenvolvimento
+  <sub>Último push: 25/05/2026</sub>
+
+- **[Landing-Page](https://github.com/carlosgabriell/Landing-Page)** · `HTML`
+  Projeto em desenvolvimento
+  <sub>Último push: 29/08/2025</sub>
+
+- **[mashup-tomate](https://github.com/carlosgabriell/mashup-tomate)** · `Java`
+  Projeto em desenvolvimento
+  <sub>Último push: 04/07/2025</sub>
+
+- **[frete-tomate](https://github.com/carlosgabriell/frete-tomate)** · `Java`
+  Projeto em desenvolvimento
+  <sub>Último push: 04/07/2025</sub>
+
+- **[preco-tomate](https://github.com/carlosgabriell/preco-tomate)** · `Java`
+  Projeto em desenvolvimento
+  <sub>Último push: 04/07/2025</sub>
+
+- **[sistema_eventos-main](https://github.com/carlosgabriell/sistema_eventos-main)** · `Java`
+  Projeto em desenvolvimento
+  <sub>Último push: 30/06/2025</sub>
+
+- **[trabalho_aps](https://github.com/carlosgabriell/trabalho_aps)** · `PHP`
+  Projeto em desenvolvimento
+  <sub>Último push: 12/12/2024</sub>
 
 <!-- RELEASES:END -->
 
