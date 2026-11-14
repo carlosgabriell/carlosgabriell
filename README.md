@@ -137,10 +137,6 @@ status: ready_to_build_
   Poképedia Explorer — uma Pokédex interativa
   <sub>Último push: 14/10/2026</sub>
 
-- **[fintrack](https://github.com/carlosgabriell/fintrack)**
-  Personal finance management platform with real-time analytics, budgeting and financial goals.
-  <sub>Último push: 18/08/2026</sub>
-
 - **[bolao-copa-2026](https://github.com/carlosgabriell/bolao-copa-2026)** · `JavaScript`
   Projeto em desenvolvimento
   <sub>Último push: 25/05/2026</sub>
@@ -164,6 +160,10 @@ status: ready_to_build_
 - **[sistema_eventos-main](https://github.com/carlosgabriell/sistema_eventos-main)** · `Java`
   Projeto em desenvolvimento
   <sub>Último push: 30/06/2025</sub>
+
+- **[trabalho_aps](https://github.com/carlosgabriell/trabalho_aps)** · `PHP`
+  Projeto em desenvolvimento
+  <sub>Último push: 12/12/2024</sub>
 
 <!-- RELEASES:END -->
 
